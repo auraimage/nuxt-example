@@ -10,7 +10,7 @@
     "preview": "nuxt preview"
   },
   "dependencies": {
-    "@auraimage/sdk": "file:../../oss/sdk",
+    "@auraimage/sdk": "^0.7.0",
     "nuxt": "^3.16.0",
     "vue": "^3.5.0"
   },
